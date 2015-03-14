@@ -1,6 +1,6 @@
 
 package abcd;
-
+// autor: Diana Estefania Obregon
 import javax.swing.JOptionPane;
 public class ABCD {
 
